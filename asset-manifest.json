@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ShoppingCart/static/css/main.e68895be.css",
+    "main.js": "/ShoppingCart/static/js/main.4d936528.js",
+    "static/media/smartphone.jpg": "/ShoppingCart/static/media/smartphone.63eee34bae1ff572bd28.jpg",
+    "static/media/book.jpg": "/ShoppingCart/static/media/book.8b7b88b32dce8a011ce4.jpg",
+    "static/media/speaker.jpg": "/ShoppingCart/static/media/speaker.e5091a1daa8dbb6ac31e.jpg",
+    "static/media/redux.cjs": "/ShoppingCart/static/media/redux.7edfc461ab353f1712ab.cjs",
+    "index.html": "/ShoppingCart/index.html",
+    "main.e68895be.css.map": "/ShoppingCart/static/css/main.e68895be.css.map",
+    "main.4d936528.js.map": "/ShoppingCart/static/js/main.4d936528.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e68895be.css",
+    "static/js/main.4d936528.js"
+  ]
+}

@@ -1,0 +1,21 @@
+.app {
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+.products{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 5rem;
+  align-items: center;
+}
+
+@media screen and (max-width:1285px) {
+  .products{
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
